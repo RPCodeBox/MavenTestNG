@@ -1,0 +1,7 @@
+{
+  "name": "internetexplorerdriver",
+  "platform": "windows",
+  "bit": "32",
+  "version": "3.11.0",
+  "url": "http://selenium-release.storage.googleapis.com/3.11/IEDriverServer_Win32_3.11.0.zip"
+}

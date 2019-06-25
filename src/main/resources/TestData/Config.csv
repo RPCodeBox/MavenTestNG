@@ -1,0 +1,15 @@
+Variable,Value
+URL,http://newtours.demoaut.com/
+Platform,Windows
+Browser,CHROME
+ImplicitWait,30
+CSVFILE01,./src/test/java/TestData/CH_TestData.csv
+PAGE_LOAD,50
+SHOTER_WAIT,2000
+MEDIUM_WAIT,5000
+LONG_WAIT,8000
+Email,Yes
+EmailIDs,testuser@company.com
+TestData,./src/test/java/TestData/CH_TestData.csv
+WEEKDAY,Monday
+MyReport,Test_REPORT

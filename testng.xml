@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SampleProject" parallel="none">
+<listeners>
+<listener class-name= "Listener.TASO_TestReporter"/>
+</listeners>
+	<test name="ReleaseSuite-2018">
+		<classes>
+			<class name="TestScript.NewTours_Driver" />
+		</classes>
+	</test>
+</suite>
